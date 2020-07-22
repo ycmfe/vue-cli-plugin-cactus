@@ -8,13 +8,7 @@
 ## Install
 
 ```sh
-vue create --preset @ycmfe
-```
-
-## Usage
-
-```sh
-vue create --preset @ycmfe/vue-cli-plugin-cactus
+vue create --preset ycmfe/vue-cli-plugin-cactus
 ```
 
 ## Run tests

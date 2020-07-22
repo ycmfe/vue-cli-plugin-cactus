@@ -1,0 +1,18 @@
+{
+  "name": "vue-cli-plugin-cactus",
+  "version": "1.0.0",
+  "description": "A scaffold base on vue cli",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ycmfe/vue-cli-plugin-cactus.git"
+  },
+  "author": "chord",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ycmfe/vue-cli-plugin-cactus/issues"
+  },
+  "homepage": "https://github.com/ycmfe/vue-cli-plugin-cactus#readme",
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
+}
