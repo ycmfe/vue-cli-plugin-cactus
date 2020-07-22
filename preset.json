@@ -6,6 +6,9 @@
     "@vue/cli-plugin-typescript": {
       "classComponent": true,
       "useTsWithBabel": true
+    },
+    "@ycmfe/vue-cli-plugin-cactus-router": {
+      "prompts": true
     }
   },
   "cssPreprocessor": "dart-sass"
