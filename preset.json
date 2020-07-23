@@ -9,7 +9,8 @@
     },
     "@ycmfe/vue-cli-plugin-cactus-router": {
       "prompts": true
-    }
+    },
+    "@ycmfe/vue-cli-plugin-cactus-tailwind": {}
   },
   "cssPreprocessor": "dart-sass"
 }

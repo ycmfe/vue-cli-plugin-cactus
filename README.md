@@ -22,6 +22,6 @@ npm run test
 
 - [x] Typescript
 - [] eslint-config-alloy
-- [] Tailwind
+- [x] Tailwind + purgecss
 - [] Vuex
 - [x] Convention Routing
