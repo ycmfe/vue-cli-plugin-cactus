@@ -11,7 +11,11 @@
     "@ycmfe/vue-cli-plugin-cactus-router": {
       "prompts": true
     },
-    "@ycmfe/vue-cli-plugin-cactus-tailwind": {}
+    "@ycmfe/vue-cli-plugin-cactus-tailwind": {},
+    "@ycmfe/vue-cli-plugin-cactus-eslint": {
+      "config": "alloy",
+      "lintOn": ["save", "commit"]
+    }
   },
   "cssPreprocessor": "dart-sass"
 }

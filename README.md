@@ -1,4 +1,4 @@
-# Welcome to vue-cli-plugin-cactus 👋
+# Welcome to vue-cli-plugin-cactus 🌵
 
 ![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000)
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/ycmfe/vue-cli-plugin-cactus)
@@ -12,16 +12,10 @@
 vue create --preset ycmfe/vue-cli-plugin-cactus cactus-app
 ```
 
-## Run tests
-
-```sh
-npm run test
-```
-
 ## Roadmap
 
 - [x] Typescript
-- [] eslint-config-alloy
+- [x] eslint-config-alloy
 - [x] Tailwind + purgecss
 - [x] Vuex
 - [x] Convention Routing
