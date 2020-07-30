@@ -12,7 +12,7 @@
     "url": "https://github.com/ycmfe/vue-cli-plugin-cactus/issues"
   },
   "homepage": "https://github.com/ycmfe/vue-cli-plugin-cactus#readme",
-  "devDependencies": {
-    "prettier": "^2.0.5"
+  "publishConfig": {
+    "access": "public"
   }
 }
